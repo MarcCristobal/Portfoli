@@ -4,8 +4,8 @@ Aquest és el meu **portfoli** dels meus estudis del *Cicle Superior de Desenvol
 
 Els mòduls que he fet són:
 - [M01: Sistemes Informàtics](https://github.com/MarcCristobal/Portfoli/tree/main/Moduls/M01-SistemesInformatics)
-- M02
-- M03
-- M04
-- FOL
-- EiE
+- [M02: Bases De Dades](https://github.com/MarcCristobal/Portfoli/tree/main/Moduls/M02-BasesDeDades)
+- [M03: Programació](https://github.com/MarcCristobal/Portfoli/tree/main/Moduls/M03-Programacio)
+- [M04: Llenguatges De Marques](https://github.com/MarcCristobal/Portfoli/tree/main/Moduls/M04-LlenguatgesDeMarques)
+- [FOL: Formació i Orientació Laboral](https://github.com/MarcCristobal/Portfoli/tree/main/Moduls/M12-FOL)
+- [EiE: Empresa i Iniciativa Emprenedora](https://github.com/MarcCristobal/Portfoli/tree/main/Moduls/M13-EiE)
