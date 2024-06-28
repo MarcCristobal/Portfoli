@@ -7,6 +7,6 @@ Completed my studies in Multiplatform Application Development at Institut Nicola
 <img src="https://copernic.cat/images/logos/logo-header.png" width="150" alt="Logo INS Copèrnic">
 
 These are some of the projects done during the studies:
-- [Activities Management ERP](https://gitlab.com/project2team2/activities-management-erp)
-- [Museumizeme](https://gitlab.com/MarcCristobal/museumizeme.git)
-- [DragonBall: Smashing Limit](https://gitlab.com/MarcCristobal/dragonballsmashinglimit)
+- [Activities Management ERP](https://github.com/MarcCristobal/Activities-Management-ERP.git)
+- [Museumizeme](https://github.com/MarcCristobal/MuseumizeMe.git)
+- [DragonBall: Smashing Limit](https://github.com/MarcCristobal/DragonBall-Smashing-Limit.git)
