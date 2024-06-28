@@ -1,12 +1,13 @@
-## Portfoli
+## Portfolio
 
 Aquest és el meu **portfoli** dels meus estudis del *Cicle Superior de Desenvolupament d'Aplicacions Multiplataforma (DAM)*.
+This is my Portfolio about the projects done in my *Multiplatform Application Development Advanced Vocational Training* studies.
 
-Els meus estudis de DAM els vaig fer a l'Institut Nicolau Copèrnic.
+Completed my studies in Multiplatform Application Development at Institut Nicolau Copèrnic.
 
 <img src="https://copernic.cat/images/logos/logo-header.png" width="150" alt="Logo INS Copèrnic">
 
-Aquí hi han alguns projectes portats a terme durant el cicle:
+These are some of the projects done during the studies:
 - [Activities Management ERP](https://gitlab.com/project2team2/activities-management-erp)
 - [Museumizeme](https://gitlab.com/MarcCristobal/museumizeme.git)
 - [DragonBall: Smashing Limit](https://gitlab.com/MarcCristobal/dragonballsmashinglimit)
