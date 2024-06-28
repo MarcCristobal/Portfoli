@@ -1,6 +1,5 @@
 ## Portfolio
 
-Aquest és el meu **portfoli** dels meus estudis del *Cicle Superior de Desenvolupament d'Aplicacions Multiplataforma (DAM)*.
 This is my Portfolio about the projects done in my *Multiplatform Application Development Advanced Vocational Training* studies.
 
 Completed my studies in Multiplatform Application Development at Institut Nicolau Copèrnic.
